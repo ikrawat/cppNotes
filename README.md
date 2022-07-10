@@ -1,1 +1,2 @@
-# cppNotes
+# CppNotes
+Learning Cpp notes
